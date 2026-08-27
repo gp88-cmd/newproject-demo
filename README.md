@@ -1,2 +1,3 @@
 # newproject-demo
-this is my 1st git 
+Thid is is my First git
+Author Riya 
